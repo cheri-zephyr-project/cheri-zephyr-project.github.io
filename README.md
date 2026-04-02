@@ -9,3 +9,6 @@ $ docker compose up
 ```
 
 The site should then be live @ <http://localhost:4000>.   Once the site is running, feel free to edit any of the site's `.md` files and see the changes immediately updated in your browser.
+
+## How to publish
+TBD.  Might use <https://github.com/BretFisher/jekyll-serve> in some CI/CD workflow?  Look at how missing semester does this on push.

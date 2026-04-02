@@ -9,6 +9,8 @@ source "https://rubygems.org"
 # Happy Jekylling!
 gem "jekyll", "~> 4.4.1"
 
+gem "jekyll-sass-converter", "~> 2.0"
+
 gem "alembic-jekyll-theme"
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
