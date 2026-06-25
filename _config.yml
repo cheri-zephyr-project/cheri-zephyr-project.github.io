@@ -103,19 +103,17 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
 
 # 9. Site navigation
 navigation_header:
-- title: Home
-  url: /
-#- title: Elements
-#  url: /elements/
-- title: About
-  url: /about
 - title: Blog
   url: /blog/
-- title: Categories
-  url: /categories/
-- title: Search
-  url: /search/
-- title: Org Github
+- title: Use Cases
+  url: /use_cases
+- title: Getting Started
+  url: /getting_started
+- title: Contact
+  url: /contact
+#- title: Search
+#  url: /search/
+- title: Project Github
   url: https://github.com/cheri-zephyr-project
 
 navigation_footer:
