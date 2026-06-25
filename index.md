@@ -8,3 +8,7 @@ excerpt: "Overview of the website"
 
 Welcome to the CHERI-Zephyr project.  Please find some some useful resources
 about the project in the links above.
+
+Heres a lightning talk into to the project:
+
+{% include video.html id="oCZxrTI0_qQ" title="Siteleaf tutorial video" %}
