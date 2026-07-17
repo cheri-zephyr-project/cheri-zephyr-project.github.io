@@ -12,19 +12,19 @@ Here you can find all the resources you need to help you get started. Below is a
 ### Resources
 We have a number of collaboration sites:
 
-* https://github.com/CHERI-Alliance/CHERI-zephyr 
+* [https://github.com/CHERI-Alliance/CHERI-zephyr](https://github.com/CHERI-Alliance/CHERI-zephyr)
 
    All of our official releases and source files can be currently found on the CHERI-Alliance github under the CHERI-zephyr repository. This is the main go-to place for accessing our software. Here you will also find releases of other CHERI-related software and tools. 
 
-* https://github.com/cheri-zephyr-project
+* [https://github.com/cheri-zephyr-project/](https://github.com/cheri-zephyr-project/)
 
   We also have a number of additional resources including the development of our website on our own github repository.
 
-* https://cheri-alliance.org/discover-cheri/cheri-products/
+* [https://cheri-alliance.org/discover-cheri/cheri-products/](https://cheri-alliance.org/discover-cheri/cheri-products/)
 
    CHERI-zephyr is listed as one of the official CHERI-Alliance software products. Here you will find more information about CHERI and other CHERI-related software and hardware being developed. 
 
-* https://www.thecapablehub.org/blog/cheri-zephyr-getting-started/
+* [https://www.thecapablehub.org/blog/cheri-zephyr-getting-started/](https://www.thecapablehub.org/blog/cheri-zephyr-getting-started/)
 
   The Capable Hub is involved with quality and upstream alignment of open-source CHERI software. They are currently collaborating with us on Continous Integration workflows for CHERI-zephyr and have written a good blog here on how to get started with CHERI-Zephyr.
 
