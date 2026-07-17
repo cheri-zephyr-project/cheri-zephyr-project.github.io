@@ -7,7 +7,7 @@ excerpt: "Getting Started"
 ---
 
 <!-- Perhaps crib from / link to: https://www.thecapablehub.org/blog/cheri-zephyr-getting-started/ -->
-Here you can find all the resources you need to help you get started. Below is a list of useful questions and answers.
+Here you can find all the resources you need to help you get started. Below resources is a list of useful questions and answers.
 
 ### Resources
 We have a number of collaboration sites:
@@ -52,7 +52,7 @@ We have a number of collaboration sites:
 * A7. No, most of the CHERI porting effort is in the operating system and drivers. You do not need to be a CHERI expert to write basic apps, most portable modern C is compatible if you use the right type for the job (e.g do not use unsigned long when you mean uintptr_t) There is a CHERI C++ guide available if you get stuck!
 
 * **Q8. Who should I contact if I find a CHERI bug?**
-* A8. You can raise an issue on the CHERI-Alliance repository or contact the lead developer: J.Jackson@bham.ac.uk
+* A8. You can raise an issue on the CHERI-Alliance repository or contact us [here.](./contact.md)
 
 
 * **Q9. Are there plans to upstream this into the parent Zephyr Tree?**
