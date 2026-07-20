@@ -10,7 +10,7 @@ Welcome to the CHERI-Zephyr project.  Please find some some useful resources abo
 
 Heres a lightning talk into to the project:
 
-{% include video.html id="oCZxrTI0_qQ" title="Siteleaf tutorial video" %}
+{% include video.html id="oCZxrTI0_qQ" title="Explainer Lightning Talk" %}
 
 <hr>
 <p style="color: #555; font-size: 0.9em;">
