@@ -11,4 +11,4 @@ We are pleased to announce that CHERI-Zephyr was successfully demonstrated on CH
 
 This is another important step forward in bringing CHERI-Zephyr closer to real-world deployment on memory safe systems.
 
-![CHERI-Zephyr on hardware](../images/CHERI-zephyr-hardware_lowres.jpeg)
+![CHERI-Zephyr on hardware](/images/CHERI-zephyr-hardware_lowres.jpeg)
