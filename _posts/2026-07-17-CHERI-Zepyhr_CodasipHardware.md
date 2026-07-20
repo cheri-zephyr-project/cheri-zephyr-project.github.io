@@ -2,7 +2,7 @@
 layout: post
 title:  "CHERI-Zephyr Successfully Demonstrated on CHERI-Certified Codasip Hardware"
 date:   2026-07-17 16:00:00 +0000
-categories: [Meta]
+categories: [Announcement]
 ---
 
 We are pleased to announce that CHERI-Zephyr was successfully demonstrated on CHERI-certified hardware - the Codasip X730, 64-bit CHERI-RISC-V platform, and the Codasip v739, 32-bit CHERI-RISC-V platform.
