@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Release CHERI-Zephyr v0.4.0"
-date:   2026-08-28 12:00:00 +0000
+date:   2026-08-28 11:00:00 +0000
 categories: [Release]
 ---
 
